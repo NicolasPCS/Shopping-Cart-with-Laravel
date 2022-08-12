@@ -6,6 +6,7 @@ use App\Http\Controllers\AdminController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\SliderController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\PdfController;
 
 /*
 |--------------------------------------------------------------------------
@@ -66,4 +67,10 @@ Route::get('/cart', [ClientController::class, 'cart']);
 Route::get('/checkout', [ClientController::class, 'checkout']);
 Route::get('/login', [ClientController::class, 'login']);
 Route::get('/signup', [ClientController::class, 'signup']);
+Route::post('/create_account', [ClientController::class, 'create_account']);
+Route::post('/access_account', [ClientController::class, 'access_account']);
+Route::get('/logout', [ClientController::class, 'logout']);
+Route::post('/postcheckout', [ClientController::class, 'postcheckout']);
 Route::get('/orders', [ClientController::class, 'orders']);
+
+Route::get('/view_pdforder/{id}', [PdfController::class, 'view_pdf']);
