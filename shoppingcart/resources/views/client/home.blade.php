@@ -94,12 +94,12 @@
 						<div class="col-md-6">
 							<div class="category-wrap ftco-animate img mb-4 d-flex align-items-end" style="background-image: url(frontend/images/category-1.jpg);">
 								<div class="text px-3 py-1">
-									<h2 class="mb-0"><a href="#">Fruits</a></h2>
+									<h2 class="mb-0"><a href="#">Viajes</a></h2>
 								</div>
 							</div>
 							<div class="category-wrap ftco-animate img d-flex align-items-end" style="background-image: url(frontend/images/category-2.jpg);">
 								<div class="text px-3 py-1">
-									<h2 class="mb-0"><a href="#">Vegetables</a></h2>
+									<h2 class="mb-0"><a href="#">Ciencia y ficción</a></h2>
 								</div>
 							</div>
 						</div>
@@ -108,12 +108,12 @@
 				<div class="col-md-4">
 					<div class="category-wrap ftco-animate img mb-4 d-flex align-items-end" style="background-image: url(frontend/images/category-3.jpg);">
 						<div class="text px-3 py-1">
-							<h2 class="mb-0"><a href="#">Juices</a></h2>
+							<h2 class="mb-0"><a href="#">Comedia</a></h2>
 						</div>
 					</div>
 					<div class="category-wrap ftco-animate img d-flex align-items-end" style="background-image: url(frontend/images/category-4.jpg);">
 						<div class="text px-3 py-1">
-							<h2 class="mb-0"><a href="#">Dried</a></h2>
+							<h2 class="mb-0"><a href="#">Adolescentes</a></h2>
 						</div>
 					</div>
 				</div>
@@ -126,7 +126,7 @@
 			<div class="row justify-content-center mb-3 pb-3">
 				<div class="col-md-12 heading-section text-center ftco-animate">
 					<span class="subheading">Featured Products</span>
-					<h2 class="mb-4">Our Products</h2>
+					<h2 class="mb-4">Nuestros productos</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 				</div>
 			</div>
